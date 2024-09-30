@@ -1,4 +1,6 @@
 ## Coucou 👋
+![debibgy-3ea92555-b2c5-4d02-9a3c-dd0292d8fd8a](https://github.com/user-attachments/assets/6fc8e50f-de16-42b2-b4e9-daa5eaa1ee9e)
+
 
 <!--
 **Falluck/Falluck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
