@@ -6,7 +6,7 @@
 - 💬 Ask me about gelnex
 - 📫 How to reach me: touch gelnex
 - 😄 Pronouns: gel/nex
-- ⚡ Fun fact: gelnex
+- ⚡ Fun fact: all my homies hate gelnex
 
 <!--
 **Falluck/Falluck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
